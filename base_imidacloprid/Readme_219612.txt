@@ -1,0 +1,81 @@
+This readme.txt file was generated on May 12, 2021 by the Data Repository for the University of Minnesota (DRUM)
+
+-------------------
+GENERAL INFORMATION
+-------------------
+
+1. Title of Dataset:  Data supporting: Evaluation of neurobehavioral abnormalities and immunotoxicity in response to oral imidacloprid exposure in domestic chickens (Gallus callus domesticus) 
+
+2. Author Contact Information
+
+  Principal Investigator Contact Information
+        Name:  Dana M Franzen-Klein
+           Institution: University of Minnesota
+           Address: The Raptor Center
+           Email: franz337@umn.edu
+
+3. Date published: 2021-05-10
+
+4. Date of data collection: 2017-04-21 to 2017-08-16
+
+5. Geographic location of data collection: n/a
+
+6. Information about funding sources that supported the collection of the data: 
+Minnesota Environment and Natural Resources Trust Fund as recommended by the Legislative-Citizen Commission on Minnesota Resources (LCCMR)
+
+7. Overview of the data (abstract): 
+Domestic chickens (Gallus gallus domesticus) were exposed to imidacloprid by gavage once daily for 7 consecutive days at 0, 0.03, 0.34, 3.42, 10.25, and 15.50 mg/kg/day (n = 20 per group; 5 6-week-old males, 5 6-week-old females, 5 9-week-old males, and 5 9-week-old females). The severity and duration of neurobehavioral abnormalities were recorded. Components of the innate and adaptive immune system were assessed with 7 standard functional assays. Temporary neurobehavioral abnormalities were observed in a dose-dependent manner, including muscle tremors, ataxia, and depressed mentation. The effective dose value for the presence of any neurobehavioral abnormalities in 50% of the test group (ED50) was 4.62 ± 0.98 mg/kg/day. The ED50 for an adjusted score that included both the severity and duration of neurobehavioral abnormalities was 11.24 ± 9.33 mg/kg/day. These ED50 values are equivalent to a 1 kg bird ingesting 29 or 70 imidacloprid treated soybean seeds respectively. Immunotoxicity was not documented, either because the assays were insensitive, did not test relevant immune functions, or imidacloprid is not immunotoxic at this dosing schedule in this species. Neurobehavioral abnormalities were a more sensitive indicator of the sublethal effects of imidacloprid than immunotoxicity.
+
+--------------------------
+SHARING/ACCESS INFORMATION
+-------------------------- 
+
+1. Licenses/restrictions placed on the data: CC0 1.0 Universal. http://creativecommons.org/publicdomain/zero/1.0/
+
+2. Links to publications that cite or use the data: https://doi.org/10.1080/15287394.2020.1723154
+
+3. Was data derived from another source? 
+           If yes, list source(s): n/a
+
+4. DRUM Terms of Use: By using these files, users agree to the Terms of Use. https://conservancy.umn.edu/pages/drum/policies/#terms-of-use 
+
+5. Suggested Data citation:  Franzen-Klein, Dana M; Jankowski, Mark; Roy, Charlotte L; Nguyen-Phuc, Hoa; Chen, Da; Neuman-Lee, Lorin; Redig, Patrick; Ponder, Julia. (2021). Evaluation of neurobehavioral abnormalities and immunotoxicity in response to oral imidacloprid exposure in domestic chickens (Gallus callus domesticus). Retrieved from the Data Repository for the University of Minnesota, https://doi.org/10.13020/s0ev-vr77. 
+
+---------------------
+DATA & FILE OVERVIEW
+---------------------
+
+1. File List
+   A. Filename:  nenoic data_weights.xlsx	
+	Short Description: Bird weights	
+	Size: 44.95Kb	
+	Format: Microsoft Excel 2007		
+
+   B. Filename: Neonic data clinical signs immune tests.xlsx	
+	Short Description: Data from live bird observations (clinical sign severity scores and clinical sign duration) and immune tests done in vivo (PHA, DTH)	
+	Size: 165.8Kb	
+	Format: Microsoft Excel 2007
+
+   C. Filename: Neonic data SRBC results.xlsx	
+	Short Description: Data from sheep red blood cell immune assay	
+	Size: 31.98Kb	
+	Format: Microsoft Excel 2007
+
+   D. Filename: Neonic data cbc results.xlsx	
+	Short Description: Complete blood cell count results	
+	Size: 107.8Kb	
+	Format: Microsoft Excel 2007
+
+   E. Filename: Neonic data BKA results.xlsx	
+	Short Description: Data from bactericidal assay	
+	Size: 68.07Kb	
+	Format: Microsoft Excel 2007
+	Variable Notes: 
+
+   F. Filename: Neonic data necropsy results.xlsx	
+	Short Description: Data from gross necropsy exams	
+	Size: 31.38Kb	
+	Format: Microsoft Excel 2007
+
+
+Additional information regarding the dataset, such as definitions of abbreviations or methodology, as well as behavioral videos may be made available upon request to Dr. Dana Franzen-Klein, franz337@umn.edu.
